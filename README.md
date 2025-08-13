@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 **3rd Year CSE Student** @ GLA University, Mathura  
+- 🎓 **Final Year CSE Student** @ GLA University, Mathura  
 - 💻 Skilled in **MERN Stack, Java, SQL, Tailwind CSS**  
 - 🌟 Love creating **scalable & user-friendly applications**  
 - 🏆 Solved **250+ DSA problems** on LeetCode & HackerRank  
